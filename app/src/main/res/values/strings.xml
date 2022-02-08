@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuHttpServer</string>
+    <string name="main_text_message">等待启动！</string>
+    <string name="main_text_msg_running">HttpServer Running!</string>
+</resources>
